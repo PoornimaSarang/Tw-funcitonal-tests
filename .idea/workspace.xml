@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8721870e-899e-4992-b3f3-456ab169058d" name="Default" comment="" />
+    <list default="true" id="8721870e-899e-4992-b3f3-456ab169058d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-32-42.750.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-32-42.750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-43-47.850.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-43-47.850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-50-48.873.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-50-48.873.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-55-19.615.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-55-19.615.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-55-58.372.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-55-58.372.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-58-26.339.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-58-26.339.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-59-48.848.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-19-12-59-48.848.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-09-27.285.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-09-27.285.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-10-58.203.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-10-58.203.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-12-11.835.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-12-11.835.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-15-44.013.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-09-21-13-15-44.013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-10-04-14-45-03.029.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-10-04-14-45-03.029.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-10-20-14-57-34.684.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-10-20-14-57-34.684.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-10-21-17-50-49.708.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot_2016-10-21-17-50-49.708.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/end_to_end.feature" afterPath="$PROJECT_DIR$/features/end_to_end.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/radar_page.rb" afterPath="$PROJECT_DIR$/features/step_definitions/radar_page.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/pages/home_page.rb" afterPath="$PROJECT_DIR$/features/support/pages/home_page.rb" />
+    </list>
     <ignored path="FunctionalUITests.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -16,6 +49,7 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="FunctionalUITests" />
   </component>
@@ -24,8 +58,8 @@
       <file leaf-file-name="end_to_end.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/end_to_end.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -44,8 +78,8 @@
       <file leaf-file-name="radar_page.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/radar_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -64,8 +98,8 @@
       <file leaf-file-name="home_page.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -131,6 +165,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -151,8 +188,8 @@
         <option value="$PROJECT_DIR$/features/step_definitions/news_page.rb.rb" />
         <option value="$PROJECT_DIR$/features/support/pages/news_page.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/news_page.rb" />
-        <option value="$PROJECT_DIR$/features/step_definitions/radar_page.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/home_page.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/radar_page.rb" />
         <option value="$PROJECT_DIR$/features/end_to_end.feature" />
         <option value="$PROJECT_DIR$/features/support/pages/home_page.rb" />
       </list>
@@ -193,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -286,7 +324,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +338,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.screenshot_2016-09-19-12-32-42.750.html">
+    <configuration default="false" name="screenshot_2016-09-19-12-32-42.750.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FunctionalUITests/screenshot_2016-09-19-12-32-42.750.html">
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -432,6 +472,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.screenshot_2016-09-19-12-32-42.750.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.screenshot_2016-09-19-12-32-42.750.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -472,33 +520,35 @@
       <workItem from="1475572009995" duration="102000" />
       <workItem from="1475572278894" duration="931000" />
       <workItem from="1420070570210" duration="1832000" />
+      <workItem from="1478343605115" duration="2082000" />
+      <workItem from="1478598774554" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75317000" />
+    <option name="totallyTimeSpent" value="77491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25486112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25486112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -807,14 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/radar_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/pages/news_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -827,30 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/end_to_end.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -875,6 +893,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/radar_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/end_to_end.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
           <folding />
         </state>
       </provider>

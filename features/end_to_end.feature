@@ -2,7 +2,6 @@ Feature: To verify the tw.com before release
 
   Scenario: To verify basic stuff in Tw.com
     Given I am on the homepage of Tw.com
-    Then I should see News items
     When I click on "Tech Radar"
     Then I should go to Tech Radar Page
     And I should see "5" tech radars available to download
@@ -14,7 +13,7 @@ Feature: To verify the tw.com before release
     Then I should be able to select any city in any region
     When I click the news link
     Then I should be able to see news item
-
+    Then I should see News items
 
 
 
