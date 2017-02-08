@@ -1,5 +1,5 @@
 class HomePage < Capypage::Page
-  set_url('http://23.253.46.160/')
+  set_url('http://23.253.68.31/')
 
   element :radar_tile,  'a#home-tile-201611-radar'
   element :new_show ,'div#divMenuItemNewShow'
