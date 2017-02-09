@@ -6,6 +6,6 @@ class ContentEditablePage < Capypage::Page
   element :save_button, '#save-button'
   element :publish_button, '#publish-button'
   element :keymessage_button, '#add-key-message-module'
-  element :keymessage_editbutton, ".module-key-message .module-menu__configure"
+  element :keymessage_editbutton, ".module-key-message .module-menu__configure .icon-edit"
 
 end
